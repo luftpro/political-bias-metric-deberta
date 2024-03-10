@@ -1,6 +1,7 @@
 
 # Multilabel metric learning in analyzing political bias
-Analyzing the political bias and reliability of articles using metric learning techniques and DeBERTa
+Analyzing the political bias and reliability of articles using metric learning techniques and DeBERTa.
+[Notebook with code](https://github.com/luftpro/political-bias-metric-deberta/blob/main/deberta-metric.ipynb)
 
 ## Dataset
 [CLEF CheckThat! Lab 2023 Task 3 dataset](https://gitlab.com/checkthat_lab/clef2023-checkthat-lab/-/tree/main/task3y)
